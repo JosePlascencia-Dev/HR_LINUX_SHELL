@@ -1,3 +1,6 @@
+# Problema:
+#    Given n integers, compute their average, rounded to three decimal places. 
+# Solucion: revise documentacion sobre variables numericas.
 read n
 let total=0
 for i in $(seq 1 1 $n)
