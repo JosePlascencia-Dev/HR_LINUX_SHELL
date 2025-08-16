@@ -1,4 +1,4 @@
 # Problema:
 #    
 # Solucion: propia
-cut -c 1-4
+cut -c 1-4  
