@@ -18,4 +18,4 @@ Proximamente.
 
 ## Uso de inteligencia artificial.
 
-El uso de inteligencia artificial esta destinado unicamente a explicar las soluciones, no a solucionar el problema.
+El uso de inteligencia artificial esta destinado unicamente a explicar las soluciones, no a solucionar el problema, las soluciones unicamente las encontrare de fuentes que no involucren IA.
